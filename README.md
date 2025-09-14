@@ -42,9 +42,12 @@
 
 ---
 
-## 📌 Featured Project  
-- 🧠 **Brain Tumor Detection using CNN (TensorFlow)**  
+## 🧠 Featured Project
 
+### Brain Tumor Detection using CNN (TensorFlow)
+A deep learning model for detecting brain tumors from MRI scans with high accuracy.
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Brain-Tumor-Detection-Using-CNN-Tensorflow-)
 ---
 
 ## 📊 GitHub Contributions  
