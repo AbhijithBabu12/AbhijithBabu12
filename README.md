@@ -52,7 +52,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60"/> XGBoost | 
   <img src="https://cdn.jsdelivr.net/gh/microsoft/LightGBM/docs/logo/LightGBM_logo_black_text.svg" width="70"/> LightGBM | 
-  <img src="https://raw.githubusercontent.com/catboost/catboost/master/catboost/logo/catboost.png" width="70"/> CatBoost  
+  <img src="./CatBoostLogo.png" width="20"/> CatBoost
   <br>
  <img src="https://cdn-icons-png.flaticon.com/512/2464/2464522.png" width="25" height="25"/> K-Means, Hierarchical, DBSCAN, Gaussian Mixture Models  
 </p>
