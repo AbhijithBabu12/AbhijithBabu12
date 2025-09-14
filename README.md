@@ -42,18 +42,49 @@
 
 ---
 
-## 🧠 Featured Project
+## 📚 Machine Learning Journey  
 
-### 🧠Brain Tumor Detection using CNN (TensorFlow)
-A deep learning model for detecting brain tumors from MRI scans with high accuracy.
+### 🔹 Classical ML Models  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> Linear & Multiple Regression  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> Logistic Regression, Decision Trees & Random Forests  
+  <br>
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="60"/> XGBoost | 
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/LightGBM/docs/logo/LightGBM_logo_black_text.svg" width="70"/> LightGBM | 
+  <img src="https://raw.githubusercontent.com/catboost/catboost/master/catboost/logo/catboost.png" width="70"/> CatBoost  
+  <br>
+ <img src="https://cdn-icons-png.flaticon.com/512/2464/2464522.png" width="25" height="25"/> K-Means, Hierarchical, DBSCAN, Gaussian Mixture Models  
+</p>
+
+
+### 🔹 Deep Learning Models  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/> Artificial Neural Networks (ANNs)  
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" height="30"/> Convolutional Neural Networks (CNNs)  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603196.png" width="28" height="28"/> Transfer Learning (Pretrained Models)  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" width="28" height="28"/> Autoencoders (Dimensionality Reduction & Reconstruction)  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/1496/1496099.png" width="28" height="28"/> U-Net, ResUNet (Image Segmentation)  
+</p>
+
+---
+
+## 🧠 Featured Projects  
+
+### 🧠 Brain Tumor Detection using CNN (TensorFlow)  
+A deep learning model for detecting brain tumors from MRI scans with high accuracy.  
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Brain-Tumor-Detection-Using-CNN-Tensorflow-)
 
-### ❤️Heart Disease Risk Prediction
-A machine learning model for detecting heart disease risk prediction using logistic regression.
+### ❤️ Heart Disease Risk Prediction  
+A machine learning model for detecting heart disease risk prediction using logistic regression.  
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Heart-Disease-Risk-Prediction-Using-Logistic-Regression)
----
+
 ---
 
 ## 📊 GitHub Contributions  
@@ -72,4 +103,4 @@ A machine learning model for detecting heart disease risk prediction using logis
 
 ---
 
-⭐️ From [Abhijith](https://github.com/AbhijithBabu12)
+⭐️ From [Abhijith](https://github.com/AbhijithBabu12)  
