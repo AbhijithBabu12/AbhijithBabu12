@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 📚 Exploring **Machine Learning** (Regression, Trees, Boosting, Clustering, CNNs, Autoencoders, Deep Learning).  
 - 🎮 Interested in **AI for Education** and **Assistive Technologies** for accessibility.  
-- 🛠 Skilled in **Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Flask, Git**.  
+- 🛠 Skilled in **Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Git**.  
 - 🎨 Also into **Photoshop & Illustrator** for creative design.  
 - 🌱 Lifelong learner, currently focusing on **ML/DL deployment & advanced architectures**.  
 
