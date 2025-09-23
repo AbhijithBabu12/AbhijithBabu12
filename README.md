@@ -70,7 +70,7 @@
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/1496/1496099.png" width="28" height="28"/> U-Net, ResUNet (Image Segmentation)
   <br>
-  <img src="./1710742171590.png" width="30" height="30"/> RNN, LSTM, BiLSTM (Recurrent Neural Networks)
+  <img src="./images/Screenshot 2025-09-23 122330.png" width="30" height="40"/> RNN, LSTM, BiLSTM (Recurrent Neural Networks)
 </p>
 
 ---
