@@ -87,6 +87,12 @@ Engineered an LSTM-based deep learning model for sentiment classification of mov
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/LSTM-Sentiment-Analysis-98Acc)
 
+### 🎭 Attention-based Sentiment Analysis 
+
+Developed a deep learning model to classify tweets into multiple emotions (e.g., sadness, worry, enthusiasm, neutral) and implemented BiLSTM with Attention mechanism for improved context understanding and interpretability.  
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/tweet-emotion-bilstm-attention)
+
 ### 🩺 Kidney Tumor Segmentation using U-Net  
 A U-Net based deep learning model for semantic segmentation of kidney tumors using medical imaging data.  
 
