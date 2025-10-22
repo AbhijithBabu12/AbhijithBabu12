@@ -82,6 +82,11 @@ Built a real-time lane detection and driver assistance system using edge detecti
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/ADAS-Lane-Detection-Steering-Assistant-Python-OpenCV-)
 
+### 🧠 Project: Transformer-based Mental Health Text Classification
+Developed a custom Transformer architecture in PyTorch to classify user statements into 7 mental health categories and achieved ~71% test accuracy, demonstrating strong generalization on unseen text data. 
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/MentalHealth-Transformer-Classifier)
+
 ### 😶 IMDB Movie Review Sentiment Analysis using LSTM  
 Engineered an LSTM-based deep learning model for sentiment classification of movie reviews, achieving 98% accuracy, demonstrating strong predictive performance.
 
