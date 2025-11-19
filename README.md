@@ -77,6 +77,11 @@
 
 ## 🧠 Featured Projects  
 
+### 💻 Transformer-based Text Generation Model (TinyGPT)
+Built a GPT-style Transformer model from scratch using PyTorch, including custom tokenizer, positional encoding, multi-head attention, and decoder blocks. 
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/GPT-Style-Text-Generator-PyTorch)
+
 ### 🚘 ADAS Lane Detection & Steering Assistant (Python, OpenCV)
 Built a real-time lane detection and driver assistance system using edge detection + Hough Transform. 
 
