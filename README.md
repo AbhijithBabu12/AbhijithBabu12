@@ -77,6 +77,11 @@
 
 ## 🧠 Featured Projects  
 
+### 📌 Fine-Tuned MiniGPT for Domain-Specific Text Generation
+Fine-tuned DistilGPT-2 using HuggingFace Transformers to build a custom causal language model for domain-specific text generation.
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/distilgpt2-finetuning)
+
 ### 💻 Transformer-based Text Generation Model (TinyGPT)
 Built a GPT-style Transformer model from scratch using PyTorch, including custom tokenizer, positional encoding, multi-head attention, and decoder blocks. 
 
