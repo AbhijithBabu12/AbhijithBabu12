@@ -21,6 +21,100 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 
 ---
 
+# 🧑‍💻 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Decision%20Trees-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/K--Means-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBSCAN-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GMM-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-6A5ACD?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/ANN-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BiLSTM-FF5733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Attention-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autoencoders-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/U--Net-DC143C?style=for-the-badge"/>
+</p>
+
+---
+## 🤖 LLM Systems
+
+<p>
+<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/MistralAI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/llama.cpp-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QLoRA-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-708090?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+
 # 🚀 Featured Projects
 
 ## 🤖 AI GitHub Crawler & Developer Intelligence System
@@ -125,52 +219,23 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/distilgpt2-finetuning)
 
 ---
+## 📊 GitHub Activity  
 
-# 🧑‍💻 Tech Stack
-
-## 💻 Languages
-
-<p>
-Python • SQL • C • Java • JavaScript • HTML • CSS
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithBabu12&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithBabu12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🤖 Machine Learning
-
-<p>
-Regression • Logistic Regression • Decision Trees • Random Forest • Gradient Boosting • XGBoost • LightGBM • CatBoost • Feature Engineering • Model Evaluation
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijithBabu12&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-## 🧠 Deep Learning
+## 🐍 Contribution Activity  
 
-<p>
-ANN • CNN • RNN • LSTM • BiLSTM • Transformers • Attention • Transfer Learning • Autoencoders • U-Net • ResUNet
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-## 🤖 LLM Systems
-
-<p>
-HuggingFace Transformers • PEFT • LoRA • QLoRA • Quantization (4-bit / 8-bit) • RAG • LangChain • LangGraph • Cross-Encoder Reranking
-</p>
-
-## 🗄️ Databases & Vector Stores
-
-<p>
-PostgreSQL • FAISS • Qdrant • Pinecone • Supabase
-</p>
-
-## ⚙️ Frameworks & Tools
-
-<p>
-PyTorch • TensorFlow/Keras • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • YOLO • FastAPI • Flask • Docker • Streamlit • Git • GitHub
-</p>
-
-## 🎨 Design
-
-<p>
-Photoshop • Illustrator
-</p>
-
----
 
 # 📊 What Defines Me
 
