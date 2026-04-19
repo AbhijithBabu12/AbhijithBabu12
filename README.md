@@ -119,9 +119,14 @@ This project implements a GPT-style (decoder-only) Transformer language model co
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/building-gpt-from-scratch)
 
 ### ✅ Efficient LLM Fine-Tuning using QLoRA  
-his project demonstrates parameter-efficient fine-tuning of a Large Language Model (LLM) using QLoRA (Quantized Low-Rank Adaptation) to significantly reduce memory usage while maintaining strong performance.
+This project demonstrates parameter-efficient fine-tuning of a Large Language Model (LLM) using QLoRA (Quantized Low-Rank Adaptation) to significantly reduce memory usage while maintaining strong performance.
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/mistral-7b-qlora-finetuning)
+
+### 📌 DistilGPT-2 Fine-Tuning for Domain-Specific Text Generation
+This project demonstrates how to fine-tune DistilGPT-2, a lightweight GPT-style language model, using HuggingFace Transformers. The model learns from a custom text dataset and generates domain-specific sequences (e.g., finance/market, sentiment-focused text).
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/distilgpt2-finetuning)
 
 ---
 
