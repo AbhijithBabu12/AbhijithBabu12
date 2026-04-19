@@ -1,10 +1,12 @@
 <!-- Animated Header -->
 
 <p align="center">
+  <img src="ghostreaper.gif" width="120" height="120" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abhijith+Babu+👋;AI+%26+LLM+Systems+Engineer;Building+Agentic+AI+Applications;From+Models+to+Real-World+Systems" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="github-octopuss.gif" width="90" height="90" />
 </p>
-
----
 
 # 🧠 Abhijith Babu
 
