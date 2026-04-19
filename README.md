@@ -78,50 +78,50 @@
 ## 🧠 Featured Projects  
 
 ### 🤖 AI GitHub Crawler \& Developer Intelligence System (FastAPI, React, Gemini API)}
-Fine-tuned DistilGPT-2 using HuggingFace Transformers to build a custom causal language model for domain-specific text generation.
+Built an AI-powered system that analyzes GitHub repositories to generate structured developer evolution timelines and insights.
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/git_hub_web_scrapper)
 
 ### 🗃️ Autonomous Data Scientist Agent (FastAPI, React, Mistral-7B)
-Built a GPT-style Transformer model from scratch using PyTorch, including custom tokenizer, positional encoding, multi-head attention, and decoder blocks. 
+Built an agentic AI system that automates end-to-end data science workflows including dataset analysis, target selection, model training, and report generation. 
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/ads-full-stack)
 
 ### 🪨 Rocky — AI Auction Assistant
-Built a real-time lane detection and driver assistance system using edge detection + Hough Transform. 
+Built a real-time AI assistant for a fantasy IPL auction platform enabling bidding and navigation via natural language. 
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/IPL-AUCTION-26)
 
 ### 📧 Agentic AI Mail Assistant (FastAPI, React, Qwen 7B, Qdrant)
-Developed a custom Transformer architecture in PyTorch to classify user statements into 7 mental health categories and achieved ~71% test accuracy, demonstrating strong generalization on unseen text data. 
+Built an end-to-end agentic AI system capable of autonomous email drafting and delivery. 
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/email-agentic-ai)
 
-### 😶 IMDB Movie Review Sentiment Analysis using LSTM  
-Engineered an LSTM-based deep learning model for sentiment classification of movie reviews, achieving 98% accuracy, demonstrating strong predictive performance.
+### 💬 Streaming RAG Chatbot with Pinecone, LangChain & Llama 3 
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions from custom documents using Pinecone vector database, LangChain retrieval pipelines, and a quantized Llama-3.2-3B model running locally.
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/LSTM-Sentiment-Analysis-98Acc)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Streaming-RAG-Chatbot-with-Pinecone-LangChain-Llama-3)
 
-### 🎭 Attention-based Sentiment Analysis 
+### 🤖 McLovin RAG Assistant — Hybrid AI Chatbot with Document Intelligence 
 
-Developed a deep learning model to classify tweets into multiple emotions (e.g., sadness, worry, enthusiasm, neutral) and implemented BiLSTM with Attention mechanism for improved context understanding and interpretability.  
+An intelligent hybrid AI assistant that combines Retrieval-Augmented Generation (RAG) with a general Large Language Model (LLM) to answer questions from uploaded documents or general knowledge.  
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/tweet-emotion-bilstm-attention)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/hybrid-rag-llm-assistant)
 
-### 🩺 Kidney Tumor Segmentation using U-Net  
-A U-Net based deep learning model for semantic segmentation of kidney tumors using medical imaging data.  
+### 🧑‍🦯 Braille Word Recognition using CRNN + CTC 
+This project implements an end-to-end Optical Character Recognition (OCR) system for Braille words using a Convolutional Recurrent Neural Network (CRNN) with Connectionist Temporal Classification (CTC) loss.  
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Kidney-Tumor-Segmentation-using-U-Net-Medical-Image-Analysis-Project-)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/braille-ocr-crnn-ctc)
 
-### 🧠 Brain Tumor Detection using CNN (TensorFlow)  
-A deep learning model for detecting brain tumors from MRI scans with high accuracy.  
+### 🤏 Tiny GPT – Building a Decoder-Only Transformer from Scratch
+This project implements a GPT-style (decoder-only) Transformer language model completely from scratch using PyTorch.
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Brain-Tumor-Detection-Using-CNN-Tensorflow-)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/building-gpt-from-scratch)
 
-### ❤️ Heart Disease Risk Prediction  
-A machine learning model for detecting heart disease risk prediction using logistic regression.  
+### ✅ Efficient LLM Fine-Tuning using QLoRA  
+his project demonstrates parameter-efficient fine-tuning of a Large Language Model (LLM) using QLoRA (Quantized Low-Rank Adaptation) to significantly reduce memory usage while maintaining strong performance.
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/Heart-Disease-Risk-Prediction-Using-Logistic-Regression)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/mistral-7b-qlora-finetuning)
 
 ---
 
