@@ -77,25 +77,25 @@
 
 ## 🧠 Featured Projects  
 
-### 📌 Fine-Tuned MiniGPT for Domain-Specific Text Generation
+### 🤖 AI GitHub Crawler \& Developer Intelligence System (FastAPI, React, Gemini API)}
 Fine-tuned DistilGPT-2 using HuggingFace Transformers to build a custom causal language model for domain-specific text generation.
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/distilgpt2-finetuning)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/git_hub_web_scrapper)
 
-### 💻 Transformer-based Text Generation Model (TinyGPT)
+### 🗃️ Autonomous Data Scientist Agent (FastAPI, React, Mistral-7B)
 Built a GPT-style Transformer model from scratch using PyTorch, including custom tokenizer, positional encoding, multi-head attention, and decoder blocks. 
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/GPT-Style-Text-Generator-PyTorch)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/ads-full-stack)
 
-### 🚘 ADAS Lane Detection & Steering Assistant (Python, OpenCV)
+### 🪨 Rocky — AI Auction Assistant
 Built a real-time lane detection and driver assistance system using edge detection + Hough Transform. 
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/ADAS-Lane-Detection-Steering-Assistant-Python-OpenCV-)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/IPL-AUCTION-26)
 
-### 🧠 Project: Transformer-based Mental Health Text Classification
+### 📧 Agentic AI Mail Assistant (FastAPI, React, Qwen 7B, Qdrant)
 Developed a custom Transformer architecture in PyTorch to classify user statements into 7 mental health categories and achieved ~71% test accuracy, demonstrating strong generalization on unseen text data. 
 
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/MentalHealth-Transformer-Classifier)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge&logo=github)](https://github.com/AbhijithBabu12/email-agentic-ai)
 
 ### 😶 IMDB Movie Review Sentiment Analysis using LSTM  
 Engineered an LSTM-based deep learning model for sentiment classification of movie reviews, achieving 98% accuracy, demonstrating strong predictive performance.
