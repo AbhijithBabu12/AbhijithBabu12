@@ -21,7 +21,8 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 
 ---
 
-# 🧑‍💻 Tech Stack
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50" align="top" /> Tech Stack</h1>
 
 ## 💻 Languages
 
@@ -94,25 +95,29 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 ## ⚙️ Frameworks & Tools
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pinecone-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
+
 ---
+
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" align="top" /> Featured Projects</h1>
 </div>
@@ -219,7 +224,11 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/distilgpt2-finetuning)
 
 ---
-## 📊 GitHub Activity  
+
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="50" height="50" align="top" /> GitHub Activity</h1>
+</div>
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithBabu12&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -246,7 +255,9 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 
 ---
 
-# 🌐 Connect
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="50" height="50" align="top" /> Connect</h1>
+</div
 
 <p align="left">
   <a href="mailto:abhijithbabu855@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
