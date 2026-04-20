@@ -8,7 +8,7 @@
   <img src="github-octopuss.gif" width="90" height="90" />
 </p>
 
-# 🧠 Abhijith Babu
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" align="top" /> Abhijith Babu
 
 ### **AI Engineer | LLM Systems | Machine Learning | Full-Stack AI**
 
@@ -113,9 +113,9 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 </p>
 
 ---
-
-
-# 🚀 Featured Projects
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" align="top" /> Featured Projects</h1>
+</div>
 
 ## 🤖 AI GitHub Crawler & Developer Intelligence System
 
