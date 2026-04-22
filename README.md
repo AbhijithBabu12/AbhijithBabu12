@@ -124,18 +124,6 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" align="top" /> Featured Projects</h1>
 </div>
 
-## 🤖 AI GitHub Crawler & Developer Intelligence System
-
-**FastAPI • React • Gemini API**
-
-* Converts GitHub repositories into **structured developer evolution timelines**
-* Pipeline: API → Data Processing → LLM → Visualization
-* Prompt-engineered **narrative generation system**
-
-[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/git_hub_web_scrapper)
-
----
-
 ## 🗃️ Autonomous Data Scientist Agent
 
 **FastAPI • React • Mistral-7B (4-bit Quantized)**
@@ -145,6 +133,18 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 * **1.5–2s streaming latency**
 
 [![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/ads-full-stack)
+
+---
+
+## 🤖 AI GitHub Crawler & Developer Intelligence System
+
+**FastAPI • React • Gemini API**
+
+* Converts GitHub repositories into **structured developer evolution timelines**
+* Pipeline: API → Data Processing → LLM → Visualization
+* Prompt-engineered **narrative generation system**
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/git_hub_web_scrapper)
 
 ---
 
