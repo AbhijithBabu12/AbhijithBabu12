@@ -1,10 +1,12 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://media.tenor.com/N0dqmMlKa8kAAAAi/arceus.gif" width="120"/>
+  <img src="https://media.tenor.com/N0dqmMlKa8kAAAAi/arceus.gif" width="110"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abhijith+Babu+👋;AI+%26+LLM+Systems+Engineer;Building+Agentic+AI+Applications;From+Models+to+Real-World+Systems" />
   &nbsp;&nbsp;&nbsp;
-  <img src="github-octopuss.gif" width="90" height="90" />
+  <img src="https://media.tenor.com/o7LO99ykfccAAAAi/anime-naruto.gif" width="110"/>
+ <!-- <img src="https://media.tenor.com/LEGaocCM0rEAAAAi/mol7ot-mol7.gif" width="100"/>
+ <!-- <img src="github-octopuss.gif" width="90" height="90" /> -->
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" align="top" /> Abhijith Babu
