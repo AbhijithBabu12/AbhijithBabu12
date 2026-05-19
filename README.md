@@ -123,6 +123,18 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" align="top" /> Featured Projects</h1>
 </div>
 
+## ⚡ Arceus — AI Coding Assistant VS Code Extension
+
+**VS Code • Ollama • TypeScript • Local RAG**
+
+* Fully local AI software engineering assistant for VS Code
+* Generates complete frontend/backend applications with workspace-aware code generation
+* Semantic code retrieval + multi-mode workflows (**Build • Debug • Review • Explain**)
+
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/Arceus-Ai)
+
+---
+
 ## 🗃️ Autonomous Data Scientist Agent
 
 **FastAPI • React • Mistral-7B (4-bit Quantized)**
