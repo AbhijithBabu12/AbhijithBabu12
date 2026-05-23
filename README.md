@@ -5,18 +5,17 @@
   
   <br /><br />
   
-  <!-- Middle Typing SVG -->
+ <!-- Middle Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Abhijith+Babu+👋;AI+%26+LLM+Systems+Engineer;Building+Agentic+AI+Applications;From+Models+to+Real-World+Systems" />
-
 </p>
 
-<!-- Isolated Centered Bottom Anime Squad -->
-<p align="center">
+<!-- Replacing <p> with <div> removes the massive default paragraph gap -->
+<div align="center">
   <img src="https://media.tenor.com/tIvALt9Ef5gAAAAj/uzumaki-naruto-shippuden.gif" width="80"/>&nbsp;&nbsp;
   <img src="https://media.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" width="230"/>&nbsp;&nbsp;
   <img src="https://media.tenor.com/wOckV-Z8ZB0AAAAi/one-piece-pixel.gif" width="170"/>&nbsp;&nbsp;
   <img src="https://media.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif" width="140"/>
-</p>
+</div>
   <!-- <img src="https://media.tenor.com/o7LO99ykfccAAAAi/anime-naruto.gif" width="110"/> -->
  <!-- <img src="https://media.tenor.com/LEGaocCM0rEAAAAi/mol7ot-mol7.gif" width="100"/> -->
  <!-- <img src="github-octopuss.gif" width="90" height="90" /> -->
