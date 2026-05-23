@@ -7,8 +7,7 @@
   
   <!-- Middle Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Abhijith+Babu+👋;AI+%26+LLM+Systems+Engineer;Building+Agentic+AI+Applications;From+Models+to+Real-World+Systems" />
-  
-  <br />
+
 </p>
 
 <!-- Isolated Centered Bottom Anime Squad -->
