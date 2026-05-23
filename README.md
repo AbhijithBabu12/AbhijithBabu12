@@ -3,7 +3,9 @@
   <img src="https://media.tenor.com/N0dqmMlKa8kAAAAi/arceus.gif" width="100"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00C4FF&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Abhijith+Babu+👋;AI+%26+LLM+Systems+Engineer;Building+Agentic+AI+Applications;From+Models+to+Real-World+Systems" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNybTF0MXRvMHY4ajM1cGVibng3b2JiOHFocXB2em12bDF0OWRtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM1dM95kwccNJWkovq/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/tIvALt9Ef5gAAAAj/uzumaki-naruto-shippuden.gif" width="80"/>
+  <img src="https://media.tenor.com/MV927m9Xw1UAAAAi/ichigo-kurusaki-hollow.gif" width="190"/>
+  <img src="https://media.tenor.com/tW0b0wDTNBMAAAAj/bhago-bhago-re-baba.gif" width="170"/>
   <img src="https://media.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif" width="120"/>
   <!-- <img src="https://media.tenor.com/o7LO99ykfccAAAAi/anime-naruto.gif" width="110"/> -->
  <!-- <img src="https://media.tenor.com/LEGaocCM0rEAAAAi/mol7ot-mol7.gif" width="100"/> -->
