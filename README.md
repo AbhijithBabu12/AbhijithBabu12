@@ -172,6 +172,18 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 
 ---
 
+## 🧠 Blissey — AI-Powered Emotional Intelligence Assessment
+
+**React • Django REST Framework • Groq • Hugging Face NLP**
+
+* Built an AI-driven EQ assessment platform with adaptive profession-specific scenarios
+* Uses Groq LLMs + Hugging Face Transformers for emotion detection, sentiment analysis, and AI psychological feedback
+* Features dynamic question generation, advanced NLP-based scoring engine, interactive analytics dashboards, and PDF report export
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge&logo=vercel)](https://github.com/AbhijithBabu12/Blissey-EQ-Assessment-System)
+
+---
+
 ## 📧 Agentic AI Mail Assistant
 
 **FastAPI • React • Qwen 7B • Qdrant**
