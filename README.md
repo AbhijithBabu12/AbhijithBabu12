@@ -268,12 +268,6 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="50" height="50" align="top" /> GitHub Activity</h1>
 </div>
 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithBabu12&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithBabu12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijithBabu12&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
