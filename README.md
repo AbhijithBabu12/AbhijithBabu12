@@ -180,7 +180,8 @@ I design and build **end-to-end AI systems** — combining Machine Learning, Dee
 * Uses Groq LLMs + Hugging Face Transformers for emotion detection, sentiment analysis, and AI psychological feedback
 * Features dynamic question generation, advanced NLP-based scoring engine, interactive analytics dashboards, and PDF report export
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge&logo=vercel)](https://github.com/AbhijithBabu12/Blissey-EQ-Assessment-System)
+[![View on GitHub](https://img.shields.io/badge/View-Project-black?style=for-the-badge\&logo=github)](https://github.com/AbhijithBabu12/Blissey-EQ-Assessment-System)
+
 
 ---
 
